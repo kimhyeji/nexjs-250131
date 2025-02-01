@@ -1,5 +1,6 @@
 package com.ll.nexjs_250131.global.security;
 
+import com.ll.nexjs_250131.global.rsData.RsData;
 import com.ll.nexjs_250131.standard.util.Ut;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;

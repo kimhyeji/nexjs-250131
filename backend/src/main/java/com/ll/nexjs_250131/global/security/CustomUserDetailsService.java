@@ -1,5 +1,7 @@
 package com.ll.nexjs_250131.global.security;
 
+import com.ll.nexjs_250131.domain.member.member.entity.Member;
+import com.ll.nexjs_250131.domain.member.member.repository.MemberRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

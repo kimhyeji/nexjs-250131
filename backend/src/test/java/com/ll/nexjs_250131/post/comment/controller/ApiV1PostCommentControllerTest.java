@@ -1,5 +1,11 @@
 package com.ll.nexjs_250131.post.comment.controller;
 
+import com.ll.nexjs_250131.domain.member.member.entity.Member;
+import com.ll.nexjs_250131.domain.member.member.service.MemberService;
+import com.ll.nexjs_250131.domain.post.comment.controller.ApiV1PostCommentController;
+import com.ll.nexjs_250131.domain.post.comment.entity.PostComment;
+import com.ll.nexjs_250131.domain.post.post.entity.Post;
+import com.ll.nexjs_250131.domain.post.post.service.PostService;
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

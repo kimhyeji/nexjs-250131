@@ -1,5 +1,7 @@
 package com.ll.nexjs_250131.global.rq;
 
+import com.ll.nexjs_250131.domain.member.member.entity.Member;
+import com.ll.nexjs_250131.domain.member.member.service.MemberService;
 import com.ll.nexjs_250131.global.security.SecurityUser;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;

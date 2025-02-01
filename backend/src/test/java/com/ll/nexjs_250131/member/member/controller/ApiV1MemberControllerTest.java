@@ -1,5 +1,8 @@
 package com.ll.nexjs_250131.member.member.controller;
 
+import com.ll.nexjs_250131.domain.member.member.controller.ApiV1MemberController;
+import com.ll.nexjs_250131.domain.member.member.entity.Member;
+import com.ll.nexjs_250131.domain.member.member.service.MemberService;
 import jakarta.servlet.http.Cookie;
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.DisplayName;
